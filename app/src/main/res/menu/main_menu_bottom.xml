@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:title="All"
+        android:checked="true"
+        android:icon="@drawable/ic_home_run"
+        />
+    <item
+        android:id="@+id/egypt"
+        android:title="Country"
+        android:icon="@drawable/ic_flag"
+        />
+    <item
+        android:id="@+id/advices"
+        android:title="Advices"
+        android:icon="@drawable/ic_advice"
+        />
+
+</menu>

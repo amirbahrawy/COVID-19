@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">COVID-19</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="head1">1-Stay home if you can.</string>
+    <string name="paragraph1">Even if you have no underlying health conditions, and no symptoms,
+        be extra cautious to protect other people
+        You can do your part to help your community and the world. Do not get close to other people.
+        This is called “social distancing” or “physical distancing,”
+        and is basically a call to stand far away from other people.
+        Experts believe the coronavirus travels through droplets,
+        so limiting your exposure to other people is a good way to protect yourself.
+        Avoid public transportation when possible, limit nonessential travel,
+        work from home and skip social gatherings. Don’t go to crowded restaurants or busy gyms.
+        You can go outside, as long as you avoid being in close contact with people
+    </string>
+    <string name="head2">2-Wash your hands frequently.</string>
+    <string name="paragraph2">Regularly and thoroughly clean your hands with an alcohol-based hand rub or wash them with soap and water.
+
+Why? Washing your hands with soap and water or using alcohol-based hand rub kills viruses that may be on your hands</string>
+    <string name="head3">3-Maintain social distancing</string>
+    <string name="paragraph3">Maintain at least 1 metre (3 feet) distance between yourself and anyone who is coughing or sneezing.
+        Why? When someone coughs or sneezes they spray small liquid droplets from their nose or mouth which may contain virus.
+        If you are too close, you can breathe in the droplets,
+        including the COVID-19 virus if the person coughing has the disease</string>
+    <string name="head4">4-Avoid touching eyes, nose and mouth</string>
+    <string name="paragraph4">Why? Hands touch many surfaces and can pick up viruses.
+        Once contaminated, hands can transfer the virus to your eyes, nose or mouth. From there,
+        the virus can enter your body and can make you sick.</string>
+    <string name="head5">5-Practice respiratory hygiene</string>
+    <string name="paragraph5">Make sure you, and the people around you,
+        follow good respiratory hygiene. This means covering your mouth and nose with your bent elbow or tissue
+        when you cough or sneeze. Then dispose of the used tissue immediately.
+        Why? Droplets spread virus. By following good respiratory hygiene you protect
+        the people around you from viruses such as cold, flu and COVID-19.</string>
+    <string name="head6">6-If you have fever, cough and difficulty breathing, seek medical care early</string>
+    <string name="paragraph6">Stay home if you feel unwell. If you have a fever, cough and difficulty breathing, seek medical attention and call in advance. Follow the directions of your local health authority.
+        Why? National and local authorities will have the most up to date information on the situation in your area.
+        Calling in advance will allow your health care provider to quickly direct you to the right health facility.
+        This will also protect you and help prevent spread of viruses and other infections.</string>
+    <string name="head7">7-Stay informed and follow advice given by your healthcare provider</string>
+    <string name="paragraph7">Stay informed on the latest developments about COVID-19. Follow advice given by your healthcare provider,
+        your national and local public health authority or your employer on how to protect yourself and others from COVID-19.
+        Why? National and local authorities will have the most up to date information on whether COVID-19 is spreading in your area. They are best placed to advise on what people in your area should be doing to protect themselves.</string>
+    <string name="head8">Protection measures for persons who are in or have recently visited (past 14 days) areas where COVID-19 is spreading</string>
+    <string name="paragraph8"></string>
+</resources>
